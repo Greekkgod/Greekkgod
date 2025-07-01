@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Greekkgod
-- 👀 I’m interested in peace of mind
-- 🌱 I’m currently learning Noun
-- 💞️ I’m looking to collaborate on Bgmi
-- 📫 How to reach me call me baby!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Rich!
+Pradhumay Gaur
+IT student with expertise in MERN stack development and a strong interest in AI/ML. Proven experience in technical project leadership and developing impactful solutions.
 
-<!---
-Greekkgod/Greekkgod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+Programming Languages: Python, JavaScript, Java
+Web Technologies: React.js, Node.js, Express.js, Next.js, HTML, CSS
+Databases: MongoDB
+AI/ML: Machine Learning Concepts, Artificial Intelligence, Prompt Engineering, Generative AI, Agentic AI (TensorFlow, PyTorch, scikit-learn, Pandas, NumPy)
+Tools & Platforms: Git, GitHub, Docker, Postman, Prisma, Visual Studio Code, PyCharm
+
+Education
+B.Tech in Information Technology
+College of Engineering Roorkee
+September 2022 - May 2026
+
+CGPA: 6.7
+
+Coursework: Data Structures & Algorithms, Object-Oriented Design, Computer Organization & Programming, Web Development, Computer Networks
+
+Leadership Activities
+Fest Coordinator, Linguistic Committee: Managed logistics and led a team for cultural events, promoting student engagement and linguistic initiatives.
+
+Captain, College Football Team: Demonstrated leadership, strategic thinking, and teamwork in guiding the team, fostering discipline and collaboration.
