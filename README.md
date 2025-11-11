@@ -13,7 +13,7 @@ B.Tech in Information Technology
 College of Engineering Roorkee
 September 2022 - May 2026
 
-CGPA: 6.7
+CGPA: 7
 
 Coursework: Data Structures & Algorithms, Object-Oriented Design, Computer Organization & Programming, Web Development, Computer Networks
 
