@@ -1,23 +1,38 @@
-Pradhumay Gaur
-IT student with expertise in MERN stack development and a strong interest in AI/ML. Proven experience in technical project leadership and developing impactful solutions.
+Hi, I'm Pradhumay Gaur 👋 | Greekkgod
+Final Year B.Tech IT student — passionate about Artificial Intelligence, Machine Learning, and impactful web solutions.
+Currently exploring Responsible AI, Generative AI, and Agentic Systems.
 
-Skills
-Programming Languages: Python, JavaScript, Java
-Web Technologies: React.js, Node.js, Express.js, Next.js, HTML, CSS
-Databases: MongoDB
-AI/ML: Machine Learning Concepts, Artificial Intelligence, Prompt Engineering, Generative AI, Agentic AI (TensorFlow, PyTorch, scikit-learn, Pandas, NumPy)
-Tools & Platforms: Git, GitHub, Docker, Postman, Prisma, Visual Studio Code, PyCharm
+⚡ Key Skills
+Programming: Python, JavaScript, Java
 
-Education
-B.Tech in Information Technology
-College of Engineering Roorkee
-September 2022 - May 2026
+ML/AI: TensorFlow, PyTorch, scikit-learn, Prompt Engineering
+
+Web: React.js, Node.js, Express.js, Next.js
+
+Data: MongoDB, SQL, Pandas, NumPy
+
+Tools: Git, GitHub, Docker, Postman, Prisma, VS Code, PyCharm
+
+🎓 Education
+B.Tech IT, College of Engineering Roorkee (2022–2026)
 
 CGPA: 7
 
-Coursework: Data Structures & Algorithms, Object-Oriented Design, Computer Organization & Programming, Web Development, Computer Networks
+Coursework: Data Structures & Algorithms, Web Development, Computer Networks
 
-Leadership Activities
-Fest Coordinator, Linguistic Committee: Managed logistics and led a team for cultural events, promoting student engagement and linguistic initiatives.
+🚀 Highlights & Interests
+Leadership in technical projects and cultural events (Fest Coordinator, Football Team Captain)
 
-Captain, College Football Team: Demonstrated leadership, strategic thinking, and teamwork in guiding the team, fostering discipline and collaboration.
+Favorite projects: Whisperai, Titanic Survival ML, MNIST Image Classifier
+
+Competitive programmer, researcher, footballer, and content creator
+
+Currently learning: SHAP, LIME, Generative AI
+
+📬 Find Me Here
+LinkedIn
+
+Key Projects
+
+✨ Fun Fact
+Always coding, reading, or playing football—building towards a career in ethical, explainable AI.
